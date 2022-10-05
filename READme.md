@@ -8,7 +8,7 @@
 
 ---
 
-<a href='https://github.com/davinci-it'> <img src="./img/brand.png" alt="AUTHOR MONOGRAM" style="align=center"/>
+<a href='https://github.com/davinci-it'> <img src="/assets/img/banner.png" alt="AUTHOR MONOGRAM" style="align=center"/>
 </a>
 
 ---
@@ -34,4 +34,6 @@
 ### __TABLE OF CONTENTS__
 - #### __[LAB 00_HELLO_WORLD](/LAB01_HELLO_WORLD/)__
 - #### __[LAB 01_KEYBOARD_INPUT](/LAB02_KEYBOARD_INPUT/)__
+- #### __[LAB 03_IF-ELSE STATEMENT](/LAB03_IF_ELSE/)__
+
 ---
