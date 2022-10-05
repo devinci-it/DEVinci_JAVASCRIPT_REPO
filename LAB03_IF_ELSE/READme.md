@@ -10,7 +10,7 @@
 
 ---
 
-<a href='https://github.com/davinci-it'> <img src="/assets/img/brand.png/" alt=" banner" style="align=center"/>
+<a href='https://github.com/davinci-it'> <img src="/assets/img/banner.png" alt=" banner" style="align=center"/>
 </a>
 
 ---
